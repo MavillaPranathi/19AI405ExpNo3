@@ -66,11 +66,10 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 
 ### Program:
-
+```
 NAME:M.PRANATHI
 REG NO:212222240064
 
-```
 from collections import deque
 from collections import defaultdict
 
